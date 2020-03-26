@@ -16,5 +16,6 @@ namespace ConsoleApp1
         {
 
         }
+        Console.Writeline("Napravljena je druga promjena");
     }
 }
