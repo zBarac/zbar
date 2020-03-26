@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.Write("nešto");
             int a = 4;
             Console.WriteLine("Još nešto");
+            Console.WriteLine("Napravljrna je promjena");
         }
     }
 }
