@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     class Class1
     {
+<<<<<<< HEAD
         void metoda()
         {
 
@@ -16,6 +17,8 @@ namespace ConsoleApp1
         {
 
         }
+=======
+>>>>>>> 23bec2a51a3130c9dbdaa03b2b6abc4fd3f55a2c
         Console.Writeline("Napravljena je druga promjena");
     }
 }
