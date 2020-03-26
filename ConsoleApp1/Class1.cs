@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     class Class1
     {
+        Console.Writeline("Napravljena je druga promjena");
     }
 }
